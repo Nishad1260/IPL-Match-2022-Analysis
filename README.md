@@ -30,9 +30,9 @@ IDE: Jupyter Notebook or Visual Studio Code/Google Colab
 
 1) Data Cleaning:Handled missing values and formatted columns.Standardized player names and team abbreviations.
 
-2)Exploratory Data Analysis (EDA):Analyzed runs scored by players, wickets taken by bowlers, and match results.Visualized trends using bar plots, heatmaps, and line charts.
+2) Exploratory Data Analysis (EDA):Analyzed runs scored by players, wickets taken by bowlers, and match results.Visualized trends using bar plots, heatmaps, and line charts.
 
-3)Visualization:Created interactive plots using Plotly for dynamic insights.Highlighted key stats like Orange Cap (most runs) and Purple Cap (most wickets).
+3) Visualization:Created interactive plots using Plotly for dynamic insights.Highlighted key stats like Orange Cap (most runs) and Purple Cap (most wickets).
 
 **Insights and Highlights**
 
